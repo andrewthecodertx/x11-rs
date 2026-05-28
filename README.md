@@ -12,15 +12,8 @@
 
 ## License
 
-Licensed under 
+MIT, see [LICENSE](LICENSE).
 
- * MIT license
-   ([LICENSE-MIT](LICENSE-MIT) or https://opensource.org/licenses/MIT)
+## Contributing
 
-  for related Discussion with contributors see #82
-
-
---- 
-The X11 libraries written in C are available under the terms of the MIT license.
-These bindings are available as public domain.
-
+PRs welcome. Please open an issue first for major changes.
